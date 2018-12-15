@@ -1,0 +1,90 @@
+> npm install typescript -g
+
+> tsc -v
+
+> tsc <fileName.ts>
+
+> node <filename.js>
+
+https://typescriptlang.org > documentation > handbook
+
+> npm install -g @angular/cli@6
+
+> ng -v
+
+> ng new demo-sg-app
+	> ng new <project_name> 
+
+> cd demo-sg-app
+
+> ng serve 
+	http://localhost:4200
+
+
+https://github.com/synergy2411/sg-app-demo
+
+synergy2411@outlook.com
+
+CLI Commands
+------------
+> ng g c users/user-info --spec false
+> ng g p <PIPE_NAME> 
+> ng g m <MODULE_NAME>
+> ng g d <DIRECTIVE_NAME>
+> ng g s <SERVICE_NAME>
+
+
+
+> npm install bootstrap@3 --save
+
+> ng g c life-cycle-demo --spec false
+
+> ng g c pipe-demo --spec false
+
+> ng g p pipes/filter --spec false
+
+
+
+
+> npm install rxjs-compat --save
+
+> npm install firebase --save
+
+
+> npm install ionic@4.1 cordova -g
+> ionic -v
+
+> Android Studio 
+
+
+> ng build --aot
+> npm install serve -g
+
+
+ionic Commands
+--------------
+
+> ionic start <PROJECT_NAME> -> blank
+
+> N / N
+
+> cd <PROJECT_DIR>
+
+> ionic serve
+
+> ionic generate page <PAGE_NAME>
+
+https://github.com/synergy2411/sg-quotes-app
+
+
+
+
+> ionic cordova platform add android
+
+> ionic cordova emulate/run android --device
+
+> ionic cordova build android --release
+
+
+https://github.com/synergy2411/sg-nativedemo
+
